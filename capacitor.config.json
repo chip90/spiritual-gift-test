@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Spiritual Gift Test",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

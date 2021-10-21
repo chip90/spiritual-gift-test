@@ -1,0 +1,8 @@
+{
+  "name": "Spiritual Gift Test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "6ff37e4c"
+}
